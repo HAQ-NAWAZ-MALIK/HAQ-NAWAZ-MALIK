@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:640/0*VlTcqQGkS25mEZAI.gif)](https://www.linkedin.com/in/haq-nawaz-malik-70953a277)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/0*x4rQFjfi0iK3gS1T.gif)](https://www.linkedin.com/in/haq-nawaz-malik-70953a277)
   
 <h1 align="center">Hi 👋, I'm Omar {HAQ NAWAZ MALIK}</h1>
 <h3 align="center">A passionate AI & Cyber-security Speacialist from Kashmir</h3>
