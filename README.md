@@ -1,5 +1,4 @@
-
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/0*x4rQFjfi0iK3gS1T.gif)](https://www.linkedin.com/in/haq-nawaz-malik-70953a277)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:640/0*VlTcqQGkS25mEZAI.gif)](https://www.linkedin.com/in/haq-nawaz-malik-70953a277)
   
 <h1 align="center">Hi 👋, I'm Omar {HAQ NAWAZ MALIK}</h1>
 <h3 align="center">A passionate AI & Cyber-security Speacialist from Kashmir</h3>
@@ -7,10 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haq-nawaz-malik&label=Profile%20views&color=0e75b6&style=flat" alt="haq-nawaz-malik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haq-nawaz-malik" alt="haq-nawaz-malik" /></a> </p>
-
-
-(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif")
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif")
 
 <p align="left"> <a href="https://twitter.com/haqnawawazmalik09" target="blank"><img src="https://img.shields.io/twitter/follow/haqnawawazmalik09?logo=twitter&style=for-the-badge" alt="haqnawawazmalik09" /></a> </p>
 
