@@ -36,7 +36,7 @@ If you share similar interests or want to collaborate, let's connect. Drop me a 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/haqnawazmalik09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/haqnawazmalik09?t=X9G3Ln2RR3srD25U9299kw&s=09" height="30" width="40" /></a>
+<a href="https://twitter.com/haqnawazmalik09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/haq_nawaz_Malik?t=X9G3Ln2RR3srD25U9299kw&s=09" height="30" width="40" /></a>
 <a href="[[https://linkedin.com/in/haq-nawaz-malik](https://www.linkedin.com/in/haq-nawaz-malik-70953a277)](https://www.linkedin.com/in/haq-nawaz-malik-70953a277)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haq-nawaz-malik" height="30" width="40" /></a>
 <a href="[https://kaggle.com/haq nawaz malik](https://www.kaggle.com/mohdasimmalik)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="haq nawaz malik" height="30" width="40" /></a>
 <a href="https://www.facebook.com/umarnawazh?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="umarnawazh" height="30" width="40" /></a>
