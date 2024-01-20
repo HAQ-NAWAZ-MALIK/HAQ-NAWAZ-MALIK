@@ -30,7 +30,7 @@ If you share similar interests or want to collaborate, let's connect. Drop me a 
 
 - 📫 How to reach me **Umarnawazh@gmail.com**
 
-- 📄 Know about my skills and Certifed Credtials  check my credly Profile [](https://www.credly.com/users/haq-nawaz-malik.596b4740)
+- 📄 Know about my skills and Certifed Credtials  check my credly Profile [https://www.credly.com/users/haq-nawaz-malik.596b4740](https://www.credly.com/users/haq-nawaz-malik.596b4740)
 
 - ⚡ Fun fact **I THINK I AM FUNNY**
 
