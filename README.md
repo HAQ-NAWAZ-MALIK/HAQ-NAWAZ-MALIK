@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haq-nawaz-malik" alt="haq-nawaz-malik" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif")
 
-<p align="left"> <a href="https://twitter.com/haqnawawazmalik09" target="blank"><img src="https://img.shields.io/twitter/follow/haqnawawazmalik09?logo=twitter&style=for-the-badge" alt="haqnawawazmalik09" /></a> </p>
+<p align="left"> <a href="https://twitter.com/HAQ_NAWAZ_MALIK" target="blank"><img src="https://img.shields.io/twitter/follow/haqnawawazmalik09?logo=twitter&style=for-the-badge" alt="haqnawawazmalik09" /></a> </p>
 
 
 I'm a passionate computer science student with a strong interest in AI and cybersecurity. I am seeking exciting opportunities to grow and excel in these fields. Let me introduce myself a bit more:
