@@ -26,9 +26,7 @@ If you share similar interests or want to collaborate, let's connect. Drop me a 
 
 - 👯 I’m looking to collaborate on **AI Open source projects**
 
-- 💬 Ask me about **AI & Cyber-security**
-
-- 📫 How to reach me **Umarnawazh@gmail.com**
+- 💬 Ask me about **AI & ML plus Cyber-security**
 
 - 📄 Know about my skills and Certifed Credtials  check my credly Profile [https://www.credly.com/users/haq-nawaz-malik.596b4740](https://www.credly.com/users/haq-nawaz-malik.596b4740)
 
