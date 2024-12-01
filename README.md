@@ -1,9 +1,7 @@
-[![MasterHead]()
-  
 <h1 align="center">Hi 👋, I'm Omar {HAQ NAWAZ MALIK}</h1>
 <h3 align="center">I am passionate about  AI </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haq-nawaz-malik&label=Profile%20views&color=0e75b6&style=flat" alt="haq-nawaz-malik" /> </p>
+<p align="left"> <img src="https://images.ctfassets.net/wfutmusr1t3h/6eWM76bx8skN2B4Jpvkcil/3ccdafea4229f02802abbd9fc6634a3b/Certifiedtocat_full__2_.svg?w=768&q=75" alt="haq-nawaz-malik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haq-nawaz-malik" alt="haq-nawaz-malik" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/0*7Q3yvSIv_t0ioJ-Z.gif")
